@@ -1,8 +1,9 @@
 ## Hi there 👋
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 
+My name is Polina. I'm an engineering student at 42Barcelona!
+- 🔭 I’m currently working on ft_irc, my own IRC server in C++98, compatible with a standard IRC client.
+- 🌱 I recently built a sorting program based on Ford-Jonson merge-sort algorithm, check it out [here](https://github.com/pshcherb42/CPP09/tree/main/ex02)
+- 👯 I’m curently learning Python language and Social networking strategies.
+  - 📫 How to reach me: send me an email to polin14896@gmail.com
 <!--
 **pshcherb42/pshcherb42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
