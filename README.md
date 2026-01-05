@@ -1,5 +1,5 @@
 ## Hi there 👋
-My name is Polina. I'm an engineering student at 42Barcelona!
+My name is Polina. I'm an engineering student at 42Barcelona and wannabe full-stack developer!
 - 🔭 I’m currently working on web search engine specified on memes.
 - 🌱 I recently built a sorting program based on Ford-Jonson merge-sort algorithm, check it out [here](https://github.com/pshcherb42/CPP09/tree/main/ex02)
   - 📫 How to reach me: send me an email to polin14896@gmail.com
