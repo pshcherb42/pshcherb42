@@ -47,11 +47,11 @@
 
 ## Software Development: <a href="#"><img align="right" src="https://img.shields.io/badge/Status-On%20Going-darkgreen"></a>
 
-- **[`42 - Common Core Cursus`](https://github.com/LLuisPP/42Cursus/tree/main/)** at 42 network | Projects Overview:  <a href="#"><img align="right" src="https://img.shields.io/badge/Level-5.11-darkgreen"></a> <br>
+- **[`42 - Common Core Cursus`](https://github.com/pshcherb42/42Cursus/tree/main/)** at 42 network | Projects Overview:  <a href="#"><img align="right" src="https://img.shields.io/badge/Level-5.11-darkgreen"></a> <br>
 
 <div align="center">
 <table>
-  <td rowspan="4"><a href="https://github.com/LLuisPP/42Cursus/tree/main/"><img width="80" align="center" src="https://github.com/user-attachments/assets/b0ca0e88-e5c7-4ea7-aaf0-e2c55900e46d"></a><br><a href="https://github.com/LLuisPP/42Cursus/tree/main/"><img width="80" align="center" src="https://github.com/user-attachments/assets/8992fe87-0051-4ab5-a775-cb04d09375e1"></a>
+  <td rowspan="4"><a href="https://github.com/pshcherb42/42Cursus/tree/main/"><img width="80" align="center" src="https://github.com/user-attachments/assets/b0ca0e88-e5c7-4ea7-aaf0-e2c55900e46d"></a><br><a href="https://github.com/pshcherb42/42Cursus/tree/main/"><img width="80" align="center" src="https://github.com/user-attachments/assets/8992fe87-0051-4ab5-a775-cb04d09375e1"></a>
   </td>
   <tr>
     <td align="center"> 0 </td>
@@ -65,35 +65,35 @@
   <tr>
     <td align="center">
 
-[**`libft`**](https://github.com/LLuisPP/42Cursus/tree/main/libft)
+[**`libft`**](https://github.com/pshcherb42/42Cursus/tree/main/libft)
     </td>
     <td align="left">
 
-  [**`born2beRoot`**](https://github.com/LLuisPP/42Cursus/tree/main/Born2beRoot)<br>
-  [**`ft_printf`**](https://github.com/LLuisPP/42Cursus/tree/main/ft_printf)<br>
-  [**`get_next_line`**](https://github.com/LLuisPP/42Cursus/tree/main/get_next_line)
+  [**`born2beRoot`**](https://github.com/pshcherb42/42Cursus/tree/main/Born2beRoot)<br>
+  [**`ft_printf`**](https://github.com/pshcherb42/42Cursus/tree/main/ft_printf)<br>
+  [**`get_next_line`**](https://github.com/pshcherb42/42Cursus/tree/main/get_next_line)
     </td>
     <td align="left">
 
-[**`push_swap`**](https://github.com/LLuisPP/42Cursus/tree/main/push_swap)<br>
-[**`fractol`**](https://github.com/LLuisPP/42Cursus/tree/main/fractol)<br>
-[**`pipex`**](https://github.com/LLuisPP/42Cursus/tree/main/pipex)
+[**`push_swap`**](https://github.com/pshcherb42/42Cursus/tree/main/push_swap)<br>
+[**`fractol`**](https://github.com/pshcherb42/42Cursus/tree/main/fractol)<br>
+[**`pipex`**](https://github.com/pshcherb42/42Cursus/tree/main/pipex)
     </td>
     <td align="left">
 
-[**`philosophers`**](https://github.com/LLuisPP/42Cursus/tree/main/philosophers)<br>
-[**`minishell`**](https://github.com/LLuisPP/42Cursus/tree/main/minishell)
+[**`philosophers`**](https://github.com/pshcherb42/42Cursus/tree/main/philosophers)<br>
+[**`minishell`**](https://github.com/pshcherb42/42Cursus/tree/main/minishell)
     </td>
     <td align="left">
 
-[**`netpractice`**](https://github.com/LLuisPP/42Cursus/tree/main/netpractice)<br>
-[**`cub3D`**](https://github.com/LLuisPP/42Cursus/tree/main/cub3D)<br>
-[**`cpp0-4`**](https://github.com/LLuisPP/42Cursus/tree/main/cpp0-4)
+[**`netpractice`**](https://github.com/pshcherb42/42Cursus/tree/main/netpractice)<br>
+[**`cub3D`**](https://github.com/pshcherb42/42Cursus/tree/main/cub3D)<br>
+[**`cpp0-4`**](https://github.com/pshcherb42/42Cursus/tree/main/cpp0-4)
     </td>
     <td align="left">
 
 [**`ft_irc`**]()<br>
-[**`inception`**](https://github.com/LLuisPP/42Cursus/tree/main/inception)<br>
+[**`inception`**](https://github.com/pshcherb42/42Cursus/tree/main/inception)<br>
 [**`cpp5-9`**]()
     </td>
     <td align="left">
@@ -106,13 +106,13 @@
     <td></td>
     <td>
       
-[**`rank02`**](https://github.com/LLuisPP/42-Exams/tree/main/rank02)</td>
+[**`rank02`**](https://github.com/pshcherb42/42-Exams/tree/main/rank02)</td>
 <td>
       
-[**`rank03`**](https://github.com/LLuisPP/42-Exams-rank03)</td>
+[**`rank03`**](https://github.com/pshcherb42/42-Exams-rank03)</td>
 <td>
       
-[**`rank04`**](https://github.com/LLuisPP/42-exams-rank04)</td>
+[**`rank04`**](https://github.com/pshcherb42/42-exams-rank04)</td>
 <td>
       
 [**`rank05`**]()</td>
