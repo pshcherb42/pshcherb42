@@ -150,7 +150,7 @@
     <th align="center" colspan="2">Web development</th>
   </tr>
     <tr>
-    <td colspan="2" align="center"><a target="_blank" href="https://github.com/LLuisPP/Hunting_for_Exoplanets_with_AI"><img align="center" width="255" src="https://github.com/user-attachments/assets/da1f3261-e9e2-4e95-89ce-c7aef7607c9e"></a><a target="_blank" href="https://github.com/LLuisPP/NASAChroniclesOfExoplanet"><img align="center" width="210" src="https://github.com/user-attachments/assets/e25ff90f-8b0a-45df-8b6d-01a7b0927722"></a></td>
+    <td colspan="2" align="center"><a target="_blank" href="https://github.com/pshcherb42/twitter-clone"><img width="500"  alt="Image" src="https://github.com/user-attachments/assets/495b1738-908d-41a5-adc5-dd23ec7f2003"/></a></td>
   </tr>
 </table>
 
