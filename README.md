@@ -88,13 +88,13 @@
 
 [**`NetPractice`**](https://github.com/pshcherb42/42Cursus/tree/main/NetPractice)<br>
 [**`so_long`**](https://github.com/pshcherb42/42Cursus/tree/main/so_long)<br>
-[**`cpp0-4`**](https://github.com/pshcherb42/42Cursus/tree/main/CPP00-04)
+[**`cpp0-4`**](https://github.com/pshcherb42/42Cursus/tree/main/CPP/CPP00-04)
     </td>
     <td align="left">
 
 [**`ft_irc`**]()<br>
 [**`inception`**]()<br>
-[**`cpp5-9`**](https://github.com/pshcherb42/42Cursus/tree/main/CPP05-09)
+[**`cpp5-9`**](https://github.com/pshcherb42/42Cursus/tree/main/CPP/CPP05-09)
     </td>
     <td align="left">
 
