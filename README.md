@@ -76,7 +76,7 @@
     <td align="left">
 
 [**`push_swap`**](https://github.com/pshcherb42/42Cursus/tree/main/push_swap)<br>
-[**`miniRT`**](https://github.com/pshcherb42/42Cursus/tree/main/miniRT)<br>
+[**`so_long`**](https://github.com/pshcherb42/42Cursus/tree/main/so_long)<br>
 [**`pipex`**](https://github.com/pshcherb42/42Cursus/tree/main/pipex)
     </td>
     <td align="left">
@@ -87,7 +87,7 @@
     <td align="left">
 
 [**`NetPractice`**](https://github.com/pshcherb42/42Cursus/tree/main/NetPractice)<br>
-[**`so_long`**](https://github.com/pshcherb42/42Cursus/tree/main/so_long)<br>
+[**`miniRT`**](https://github.com/pshcherb42/42Cursus/tree/main/miniRT)<br>
 [**`cpp0-4`**](https://github.com/pshcherb42/42Cursus/tree/main/CPP/CPP00-04)
     </td>
     <td align="left">
