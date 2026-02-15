@@ -45,9 +45,9 @@
 
 ***
 
-## Software Development: <a href="#"><img align="right" src="https://img.shields.io/badge/Status-On%20Going-darkgreen"></a>
+## Software Development: <a href="#"><img align="right" src="https://img.shields.io/badge/Status-On%20Going-blue"></a>
 
-- **[`42 - Common Core Cursus`](https://github.com/pshcherb42/42Cursus/tree/main/)** at 42 network | Projects Overview:  <a href="#"><img align="right" src="https://img.shields.io/badge/Level-5.11-darkgreen"></a> <br>
+- **[`42 - Common Core Cursus`](https://github.com/pshcherb42/42Cursus/tree/main/)** at 42 network | Projects Overview:  <a href="#"><img align="right" src="https://img.shields.io/badge/Level-5-blue"></a> <br>
 
 <div align="center">
 <table>
@@ -69,14 +69,14 @@
     </td>
     <td align="left">
 
-  [**`born2beRoot`**](https://github.com/pshcherb42/42Cursus/tree/main/Born2beRoot)<br>
+  [**`Born2beroot`**](https://github.com/pshcherb42/42Cursus/tree/main/Born2beroot)<br>
   [**`ft_printf`**](https://github.com/pshcherb42/42Cursus/tree/main/ft_printf)<br>
   [**`get_next_line`**](https://github.com/pshcherb42/42Cursus/tree/main/get_next_line)
     </td>
     <td align="left">
 
 [**`push_swap`**](https://github.com/pshcherb42/42Cursus/tree/main/push_swap)<br>
-[**`fractol`**](https://github.com/pshcherb42/42Cursus/tree/main/fractol)<br>
+[**`miniRT`**](https://github.com/pshcherb42/42Cursus/tree/main/miniRT)<br>
 [**`pipex`**](https://github.com/pshcherb42/42Cursus/tree/main/pipex)
     </td>
     <td align="left">
@@ -86,15 +86,15 @@
     </td>
     <td align="left">
 
-[**`netpractice`**](https://github.com/pshcherb42/42Cursus/tree/main/netpractice)<br>
-[**`cub3D`**](https://github.com/pshcherb42/42Cursus/tree/main/cub3D)<br>
-[**`cpp0-4`**](https://github.com/pshcherb42/42Cursus/tree/main/cpp0-4)
+[**`NetPractice`**](https://github.com/pshcherb42/42Cursus/tree/main/NetPractice)<br>
+[**`so_long`**](https://github.com/pshcherb42/42Cursus/tree/main/so_long)<br>
+[**`cpp0-4`**](https://github.com/pshcherb42/42Cursus/tree/main/CPP00-04)
     </td>
     <td align="left">
 
 [**`ft_irc`**]()<br>
-[**`inception`**](https://github.com/pshcherb42/42Cursus/tree/main/inception)<br>
-[**`cpp5-9`**]()
+[**`inception`**]()<br>
+[**`cpp5-9`**](https://github.com/pshcherb42/42Cursus/tree/main/CPP05-09)
     </td>
     <td align="left">
 
@@ -106,19 +106,19 @@
     <td></td>
     <td>
       
-[**`rank02`**](https://github.com/pshcherb42/42-Exams/tree/main/rank02)</td>
+exam-rank-2</td>
 <td>
       
-[**`rank03`**](https://github.com/pshcherb42/42-Exams-rank03)</td>
+exam-rank-3</td>
 <td>
       
-[**`rank04`**](https://github.com/pshcherb42/42-exams-rank04)</td>
+exam-rank-4</td>
 <td>
       
-[**`rank05`**]()</td>
+exam-rank-5</td>
 <td>
   
-[**`rank06`**]()</td>
+exam-rank-6</td>
 
   </tr>
 </table>
