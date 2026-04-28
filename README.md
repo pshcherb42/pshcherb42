@@ -1,40 +1,20 @@
-<a href="#"><img width="1500" height="500" alt="Image" src="https://github.com/user-attachments/assets/0a9476ac-1f54-4920-b1f6-d4f1e5aefe0d"></a>
+<a href="#"><img width="2512" height="416" alt="Image" src="https://github.com/user-attachments/assets/e07878ac-d173-4dce-ad89-0e4ae487e563" /></a>
 <div align="center">
- 👮🏼 Cybersecurity specialist | 🪶 Software dev | 📜 42 student
+ ⚙️ Backend & Systems Developer | 🖥️ C / C++ | 📚 42 Barcelona
 <p></p>
 </div>
 
 <table>
     <tr>
         <td align="center">Tecnologies</td>
-        <td align="center">Foundation ethics</td>
-        <td align="center">Stats</td>
     </tr>
     <tr>
         <td align="left">
             <a href="#"><img src="https://github.com/user-attachments/assets/883a8fd1-59b3-4142-b2ea-01312fa8544f" alt="c" width="40" height="40"/></a>
             <a href="#"><img src="https://github.com/user-attachments/assets/a84a60bd-a3c5-4e74-b1be-82ed413048f4" alt="c" width="40" height="40"/></a>
-            <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="35" height="35"/></a>
-            <a href="#"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="typescript" width="35" height="35"/></a>
-            <a href="#"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/></a>
-            <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="python" width="45" height="45"/></a>
-            <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/></a>
-            <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" alt="next.js" width="45" height="45"/></a>
-            <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="react" width="45" height="45"/></a>
-            <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" alt="mongodb" width="45" height="45"/></a>
-            <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongoose/mongoose-original.svg" alt="mongoose" width="45" height="45"/></a>
-            <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original.svg" alt="mariadb" width="45" height="45"/></a>
             <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="docker" width="45" height="45"/></a>
             <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="45" height="45"/></a>
             <a href="#"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="docker" width="45" height="45"/></a>
-        </td>
-        <td align="center">
-            <a href="#"><img width="125" alt="Written-By-Human-Not-By-AI-Badge-white@2x" src="https://github.com/LLuisPP/LLuisPP/assets/116104082/dfe4e725-c00e-4fe9-a2db-ec28ed892683"></a>
-        </td>
-        <td align="center">
-            <a href="#"><img align="center" src="https://komarev.com/ghpvc/?username=pscherb42&label=Profile%20views&color=blue&style=flat" alt="pshcherb42" /></a> <br>
-            <a href="#"><img align="center" src="https://img.shields.io/github/stars/pshcherb42?style=social"></a> 
-        </td>
     </tr>
 </table>
 
